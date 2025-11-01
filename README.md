@@ -1,4 +1,2 @@
 # library-management-system
-My Express project
-made by vijay
-
+This is a library managment API Backend for the managment user and the books
