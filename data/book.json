@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Artificial Intelligence: A Modern Approach",
+    "author": "Stuart Russell & Peter Norvig",
+    "issued": true,
+    "issuedTo": 1
+  },
+  {
+    "id": 2,
+    "title": "Deep Learning with Python",
+    "author": "François Chollet",
+    "issued": false,
+    "issuedTo": null
+  },
+  {
+    "id": 3,
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "issued": true,
+    "issuedTo": 2
+  },
+  {
+    "id": 4,
+    "title": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen",
+    "issued": false,
+    "issuedTo": null
+  },
+  {
+    "id": 5,
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt & David Thomas",
+    "issued": false,
+    "issuedTo": null
+  }
+]
